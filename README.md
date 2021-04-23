@@ -7,3 +7,6 @@
 
 ### html parsor ###
 from html.parser import HTMLParser
+
+### 실행 ###
+- $ python3 main.py
